@@ -1,0 +1,6 @@
+--- Não é interessante utilizar esta maneira:
+
+- struct pilha {
+- int* vetor; //representa a pilha propriamente
+- int capacidade; //capacidade da pilha
+- int topo; //ultimo elemento da fila};
